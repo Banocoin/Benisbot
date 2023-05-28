@@ -1,5 +1,5 @@
 
-# Graham - Discord Bot for BANANO and NANO
+Fuckobot: Soon All Vite Tokens but VITE and VITC $VITE3
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/bbedward/graham_discord_bot)](https://github.com/bbedward/graham_discord_bot/releases) [![License](https://img.shields.io/github/license/bbedward/graham_discord_bot)](https://github.com/bbedward/graham_discord_bot/blob/master/LICENSE) [![CI](https://github.com/bbedward/graham_discord_bot/workflows/CI/badge.svg)](https://github.com/bbedward/graham_discord_bot/actions)
 
